@@ -1,0 +1,6 @@
+basic_auth_password = "Amma@02061962"
+basic_auth_username = "Kanchikumar"
+description = "For Glenise"
+gh_access_token = "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"
+organization = "Kanchikumar-glenise"
+repo = "Glenise-webapp"
